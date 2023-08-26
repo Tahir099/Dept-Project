@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Borc Defteri</string>
+    <string name="add_page">Əlavə et</string>
+    <string name="name">Ad , Soyad</string>
+    <string name="address">Adres</string>
+    <string name="tel">Telefon</string>
+    <string name="note">Qeyd</string>
+</resources>
