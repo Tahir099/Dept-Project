@@ -19,8 +19,6 @@ This Android application allows you to efficiently manage customer information, 
 
 ## Used Libraries
 
-Bu projede aşağıdaki kütüphaneler kullanılmıştır:
-
 - **Coil-Compose (1.4.0):** Used for image loading and display operations in Compose-based interfaces.
 
 - **Room Compiler ve Room KTX (2.5.2):** Used to manage local databases.
